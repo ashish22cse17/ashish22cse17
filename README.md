@@ -80,20 +80,6 @@ Here are some ideas to get you started:
 </p>
 <br> -->
 
-<!-- Activity -->
-<h1 align="center">Activity</h1>
-<br>
-<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsayu&theme=monokai">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsayu&theme=monokai">&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsayu&theme=monokai">
-</p>
-
 
 <!-- Connect with me -->
 <h1 align="center">Let's Connect</h1>
