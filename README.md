@@ -1,11 +1,9 @@
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/itsayu?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
-
 <!-- -------------------------------BG Template---------------------------- -->
 
 <p align="center">
 <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png">
-<!-- <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" width="1100" height="500"/> -->
+
   </p>
 
 
