@@ -9,7 +9,7 @@
   </p>
 
 
-<h1 align="center">Hi there, I'm Ayush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm Ashish<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
 <!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
  
 - 🔭 I’m currently working on Problem-Solving Skill
-- 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
+- 🌱 I’m currently learning Cpp and Java   
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, I'm happy to help:)
@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
-
-[![@itsayu's Holopin board](https://holopin.me/itsayu)](https://holopin.io/@itsayu)
 
 
 
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsayu&bg_color=000000&color=d9d9d9&line=85809d&point=ff8f33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!-- Languages -->
@@ -84,7 +82,7 @@ Here are some ideas to get you started:
 <be>
 
 <!-- Coding Platform -->
-
+<!--
 <h2 align="center">Coding Platform Where I'm Usually Active</h2>
 <p align="center">
 <a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
@@ -95,7 +93,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a>
 <a href="https://dev.to/itsayu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsayu" height="40" width="50" /></a>
 </p>
-<br>
+<br> -->
 
 <!-- Activity -->
 <h1 align="center">Activity</h1>
@@ -129,12 +127,7 @@ Here are some ideas to get you started:
 
   
 <br>
-<!-- Github contribution grid snake -->
-<h1 align="center">Contributions</h1>
-<p align="center">
-![snake animation](https://github.com/itsayu/blob/output/github-contribution-grid-snake2.svg)
-</p>
-<be>
+
 
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
