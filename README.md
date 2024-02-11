@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, I'm happy to help:)
-- 📫 How to reach me: @its_AKT_
+- 📫 How to reach me: @ashishr_ranjan
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
