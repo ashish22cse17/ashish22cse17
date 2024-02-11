@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @ashishr_ranjan
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
-
+[![@ashish's google board](https://www.cloudskillsboost.google/public_profiles/6c0c9365-08db-4c2b-bfcf-92535f227de1)]([https://holopin.io/@itsayu](https://www.cloudskillsboost.google/public_profiles/6c0c9365-08db-4c2b-bfcf-92535f227de1))
 
 
 
